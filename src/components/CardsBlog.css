@@ -1,0 +1,30 @@
+img {
+    width: 350px;
+    border-radius: 1em;
+}
+.linha {
+    display: flex;
+}
+
+.artigos {
+    text-align: center;
+    padding-bottom: 5em;
+    padding-top: 5em;
+    width: auto;
+    margin-left: 20em;
+    margin-right: 20em;
+}
+
+p {
+    color: darkgray;
+}
+
+.receitas {
+    width: 50%;
+    max-width: 350px;
+    text-align: center;
+    flex: 35%;
+    margin-left: 5em;
+    margin: auto;
+    padding: 10px;
+}
